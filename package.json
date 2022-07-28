@@ -62,7 +62,7 @@
     "semantic-release": "^18.0.1"
   },
   "peerDependencies": {
-    "@11ty/eleventy": "^0.11.0 || ^0.12.0 || ^1.0.0"
+    "@11ty/eleventy": "^1.0.0 || ^2.0.0 || ^2.0.0-canary.14"
   },
   "config": {
     "commitizen": {
